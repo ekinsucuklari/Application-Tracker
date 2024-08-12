@@ -1,0 +1,112 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\LENOVO\\source\\repos\\XMLProject\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{79CB6C31-D52E-452E-9221-9AFBB66182A0}|XMLProject\\XMLProject.csproj|c:\\users\\lenovo\\source\\repos\\xmlproject\\xmlproject\\mail.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{79CB6C31-D52E-452E-9221-9AFBB66182A0}|XMLProject\\XMLProject.csproj|solutionrelative:xmlproject\\mail.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{79CB6C31-D52E-452E-9221-9AFBB66182A0}|XMLProject\\XMLProject.csproj|c:\\users\\lenovo\\source\\repos\\xmlproject\\xmlproject\\userinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{79CB6C31-D52E-452E-9221-9AFBB66182A0}|XMLProject\\XMLProject.csproj|solutionrelative:xmlproject\\userinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{79CB6C31-D52E-452E-9221-9AFBB66182A0}|XMLProject\\XMLProject.csproj|c:\\users\\lenovo\\source\\repos\\xmlproject\\xmlproject\\serviceadapter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{79CB6C31-D52E-452E-9221-9AFBB66182A0}|XMLProject\\XMLProject.csproj|solutionrelative:xmlproject\\serviceadapter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{79CB6C31-D52E-452E-9221-9AFBB66182A0}|XMLProject\\XMLProject.csproj|c:\\users\\lenovo\\source\\repos\\xmlproject\\xmlproject\\ip.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{79CB6C31-D52E-452E-9221-9AFBB66182A0}|XMLProject\\XMLProject.csproj|solutionrelative:xmlproject\\ip.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{79CB6C31-D52E-452E-9221-9AFBB66182A0}|XMLProject\\XMLProject.csproj|c:\\users\\lenovo\\source\\repos\\xmlproject\\xmlproject\\readingxml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{79CB6C31-D52E-452E-9221-9AFBB66182A0}|XMLProject\\XMLProject.csproj|solutionrelative:xmlproject\\readingxml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 1217,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "UserInfo.cs",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\source\\repos\\XMLProject\\XMLProject\\UserInfo.cs",
+              "RelativeDocumentMoniker": "XMLProject\\UserInfo.cs",
+              "ToolTip": "C:\\Users\\LENOVO\\source\\repos\\XMLProject\\XMLProject\\UserInfo.cs",
+              "RelativeToolTip": "XMLProject\\UserInfo.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-12T18:45:42.087Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "IP.cs",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\source\\repos\\XMLProject\\XMLProject\\IP.cs",
+              "RelativeDocumentMoniker": "XMLProject\\IP.cs",
+              "ToolTip": "C:\\Users\\LENOVO\\source\\repos\\XMLProject\\XMLProject\\IP.cs",
+              "RelativeToolTip": "XMLProject\\IP.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-12T18:45:30.149Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Mail.cs",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\source\\repos\\XMLProject\\XMLProject\\Mail.cs",
+              "RelativeDocumentMoniker": "XMLProject\\Mail.cs",
+              "ToolTip": "C:\\Users\\LENOVO\\source\\repos\\XMLProject\\XMLProject\\Mail.cs",
+              "RelativeToolTip": "XMLProject\\Mail.cs",
+              "ViewState": "AQIAABMAAAAAAAAAAAAzwCQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-12T18:45:10.608Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ServiceAdapter.cs",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\source\\repos\\XMLProject\\XMLProject\\ServiceAdapter.cs",
+              "RelativeDocumentMoniker": "XMLProject\\ServiceAdapter.cs",
+              "ToolTip": "C:\\Users\\LENOVO\\source\\repos\\XMLProject\\XMLProject\\ServiceAdapter.cs",
+              "RelativeToolTip": "XMLProject\\ServiceAdapter.cs",
+              "ViewState": "AQIAAFEAAAAAAAAAAAAYwBIAAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-07T11:55:23.057Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ReadingXML.cs",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\source\\repos\\XMLProject\\XMLProject\\ReadingXML.cs",
+              "RelativeDocumentMoniker": "XMLProject\\ReadingXML.cs",
+              "ToolTip": "C:\\Users\\LENOVO\\source\\repos\\XMLProject\\XMLProject\\ReadingXML.cs",
+              "RelativeToolTip": "XMLProject\\ReadingXML.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-05T11:49:07.097Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

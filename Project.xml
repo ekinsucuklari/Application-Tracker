@@ -1,0 +1,11 @@
+<applications>
+	<application>
+		<path>mspaint.exe</path>
+	</application>
+	<application>
+		<path>notepad.exe</path>
+	</application>
+      	<application>
+        	<path>EXCEL.exe</path>
+      	</application>
+</applications>
